@@ -1,0 +1,7 @@
+{
+    "name": "telesign/test-api",
+    "version":"0.0.1",
+    "require": {
+        "telesign/telesign": "3.0.4"
+    }
+}
