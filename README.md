@@ -2,6 +2,8 @@
 
 This project is a simple PHP application that reads a CSV file containing x, y coordinates, generates a scatter plot using the GD library, and saves the resulting plot as a PNG file.
 
+![Scatter Plot](plot.png)
+
 ## Project Structure
 
 - **data.csv**  
