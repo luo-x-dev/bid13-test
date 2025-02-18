@@ -31,9 +31,7 @@ This project is a simple PHP application that reads a CSV file containing x, y c
   - Reads the CSV file.
   - Generates a scatter plot using the GD library.
   - Saves the plot as a PNG file (`plot.png`).
-
-- **README.md**  
-  This file, which explains the project, its structure, and how to set it up.
+ 
 
 ## Prerequisites
 
